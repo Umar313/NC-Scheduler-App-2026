@@ -2541,6 +2541,3 @@ function saveTemplate() {
   showToast('Rejection email template saved!');
 }
 
-</script>
-</body>
-</html>
